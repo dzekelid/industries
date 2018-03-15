@@ -49,7 +49,7 @@ apis:
   tags: Industry
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/industry/master/_listings/xignite/gettopindustryheadlines-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/industry/master/_listings/xignite/gettodaysindustryheadlines-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
