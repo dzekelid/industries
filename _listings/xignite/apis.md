@@ -36,8 +36,8 @@ tags:
 - Business
 - Bond Markets
 - Articles
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/industry/master/_listings/xignite/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -49,7 +49,7 @@ apis:
   tags: Industry
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/industry/master/_listings/xignite/getlastindustryheadlines-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/industry/master/_listings/xignite/gettopindustryheadlines-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
